@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.2.3.1:1", "", "03.1. Роли в обработке бумажной документации", "EARoot/EA2/EA3/EA1/EA109.htm", "180.png", "6", "0", "", "Use Case diagram0","{D401D939-6729-432e-98D7-4FB9C5CE8229}");
+tocTab[tocTab.length] = new Array("0.2.3.1:2", "", "«business actor» Работник бухгалтерии", "EARoot/EA2/EA3/EA1/EA112.htm", "6.png", "E11", "0", "", "Actor0","{52B02AAB-6A33-4f71-AF32-B99F982CAA3F}");
+tocTab[tocTab.length] = new Array("0.2.3.1:3", "", "«business actor» Программист", "EARoot/EA2/EA3/EA1/EA113.htm", "6.png", "E56", "0", "", "Actor0","{5276265A-1883-4a2b-8CAD-02FEED4F4DE8}");

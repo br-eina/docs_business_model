@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.2:1", "", "Бизнес-процессы", "EARoot/EA2/EA7.htm", "176.png", "1", "0", "", "Package diagram0","{2AE6C46F-6C66-4351-8460-1D6FAAD9390D}");
+tocTab[tocTab.length] = new Array("0.2.1", "1", "01. Цели бизнеса", "EARoot/EA2/EA1/EA15.htm", "4.png", "", "", "{1A424413-8BD6-4d8b-A348-C8BB0C939DE2}", "Package");
+tocTab[tocTab.length] = new Array("0.2.2", "1", "02. Состав и поток работ бизнес-процессов", "EARoot/EA2/EA2/EA20.htm", "4.png", "", "", "{68954FE2-9A67-42a5-87DA-9483F2FB4348}", "Package");
+tocTab[tocTab.length] = new Array("0.2.3", "1", "03. Роли в бизнес-процессе", "EARoot/EA2/EA3/EA107.htm", "4.png", "", "", "{F5FC4259-A7FC-4ba8-9C91-336C5C25344F}", "Package");

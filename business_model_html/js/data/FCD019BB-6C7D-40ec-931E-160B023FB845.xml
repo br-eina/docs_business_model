@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.1", "1", "Навигация по модели", "EARoot/EA1/EA3.htm", "31.png", "", "", "{E97555F3-6BAB-4074-BB9D-2252D1EA55EC}", "Package");
+tocTab[tocTab.length] = new Array("0.2", "1", "Бизнес-процессы", "EARoot/EA2/EA9.htm", "31.png", "", "", "{C12FA2BF-F1BE-492b-B84E-7FAE6821302F}", "Package");

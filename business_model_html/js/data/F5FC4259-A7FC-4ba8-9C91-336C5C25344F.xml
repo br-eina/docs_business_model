@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.2.3:1", "", "03. Роли в бизнес-процессе", "EARoot/EA2/EA3/EA105.htm", "176.png", "5", "0", "", "Package diagram0","{520E1C67-F208-4209-9698-4760C0F09B94}");
+tocTab[tocTab.length] = new Array("0.2.3.1", "1", "03.1. Роли в обработке бумажной документации", "EARoot/EA2/EA3/EA1/EA111.htm", "4.png", "", "", "{81449375-7ECD-4661-B06F-613686342A40}", "Package");
